@@ -1,5 +1,5 @@
 class Solution {
-    // Greedy Approach is the best for this problem
+    // Greedy Approach 
     public int findContentChildren(int[] g, int[] s) {
         Arrays.sort(g);
         Arrays.sort(s);
